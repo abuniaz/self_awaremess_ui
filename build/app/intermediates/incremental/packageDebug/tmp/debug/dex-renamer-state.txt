@@ -1,0 +1,4 @@
+#Wed Nov 09 11:19:56 BDT 2022
+base.0=D\:\\test\\Hello-World (1)\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
